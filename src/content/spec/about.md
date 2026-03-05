@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我 (About Me)
 
-::github{repo="saicaca/fuwari"}
+> "Interest thing is all you need."
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 🛠️ 研究方向与折腾日常
+
+啥都看啥都折腾
+
+## 💻 开源与项目
+
+这里是我的 GitHub 仓库状态
+
+## 📬 欢迎交流
+
+一键加我QQ
+[💬 点击这里一键加我 QQ 交流](http://wpa.qq.com/msgrd?v=3&uin=2913262895&site=qq&menu=yes)
+
