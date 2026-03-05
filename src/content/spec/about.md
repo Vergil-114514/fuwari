@@ -13,5 +13,5 @@
 ## 📬 欢迎交流
 
 一键加我QQ
-[💬 点击这里一键加我 QQ 交流](http://wpa.qq.com/msgrd?v=3&uin=2913262895&site=qq&menu=yes)
+[💬 点击这里一键加我 QQ 交流](tencent://message/?uin=2913262895&Site=&Menu=yes)
 
